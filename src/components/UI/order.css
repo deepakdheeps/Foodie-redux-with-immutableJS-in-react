@@ -1,0 +1,17 @@
+.div{
+     background-color: wheat;
+    height: 90%;
+    border-radius: 14px;
+    border: 5px solid black;
+    width: 50%;
+    color: black;
+margin-top: 20px;
+padding-bottom: 10px;
+font-weight: bold;
+-moz-box-shadow: inset 0 0 5px #000000;
+  -webkit-box-shadow: inset 0 0 5px #000000;
+  box-shadow: inset 0 0 5px #000000;
+}
+.span{
+  
+}
